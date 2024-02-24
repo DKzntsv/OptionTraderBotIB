@@ -19,9 +19,9 @@ def computeBSM(cp, spot_price, strike_price, t_to_exp, r, sigma):
     d1 = (np.log(spot_price/strike_price) + (r + (sigma**2)/2)*t_to_exp)/(sigma*np.sqrt(t_to_exp))
     d2 = d1 - sigma*np.sqrt(t_to_exp)
     if (cp == "CALL"):
-        c = 
         return 
-
+    
+#We will add some code here later with implementation of the Black-Schoels Model for Option trading
 
 
 def main():
