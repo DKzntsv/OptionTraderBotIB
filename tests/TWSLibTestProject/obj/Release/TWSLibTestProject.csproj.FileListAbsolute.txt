@@ -1,0 +1,10 @@
+C:\repositories\tws-api-installer\apiInstaller\githubTwsApiCode\tws-api\tests\TWSLibTestProject\bin\Release\OrderConditionsParsingTestProject.dll
+C:\repositories\tws-api-installer\apiInstaller\githubTwsApiCode\tws-api\tests\TWSLibTestProject\bin\Release\OrderConditionsParsingTestProject.pdb
+C:\repositories\tws-api-installer\apiInstaller\githubTwsApiCode\tws-api\tests\TWSLibTestProject\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\repositories\tws-api-installer\apiInstaller\githubTwsApiCode\tws-api\tests\TWSLibTestProject\bin\Release\TWSLib.dll
+C:\repositories\tws-api-installer\apiInstaller\githubTwsApiCode\tws-api\tests\TWSLibTestProject\bin\Release\TWSLib.pdb
+C:\repositories\tws-api-installer\apiInstaller\githubTwsApiCode\tws-api\tests\TWSLibTestProject\obj\Release\TWSLibTestProject.csproj.AssemblyReference.cache
+C:\repositories\tws-api-installer\apiInstaller\githubTwsApiCode\tws-api\tests\TWSLibTestProject\obj\Release\TWSLibTestProject.csproj.CoreCompileInputs.cache
+C:\repositories\tws-api-installer\apiInstaller\githubTwsApiCode\tws-api\tests\TWSLibTestProject\obj\Release\TWSLibTestProject.csproj.CopyComplete
+C:\repositories\tws-api-installer\apiInstaller\githubTwsApiCode\tws-api\tests\TWSLibTestProject\obj\Release\OrderConditionsParsingTestProject.dll
+C:\repositories\tws-api-installer\apiInstaller\githubTwsApiCode\tws-api\tests\TWSLibTestProject\obj\Release\OrderConditionsParsingTestProject.pdb
